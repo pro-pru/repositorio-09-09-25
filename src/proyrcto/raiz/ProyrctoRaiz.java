@@ -1,20 +1,24 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ nuevo repo y esta es la raiz
+
+rama de eze
  */
 package proyrcto.raiz;
 
-/**
- *
- * @author Los ortegas
- */
+import java.util.Scanner;
+
 public class ProyrctoRaiz {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String palabra;
+            Scanner leer = new Scanner(System.in);
+        System.out.println("HOLAAAAAAA ");
+        
+        System.out.print("\nIngrese una palabra: ");
+        palabra = leer.nextLine();
+        
+        System.out.println("La palabra que ingreso es : "+ " '' " + palabra+ " '' " );
+        
     }
     
 }
