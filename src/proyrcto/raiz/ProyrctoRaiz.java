@@ -19,6 +19,13 @@ public class ProyrctoRaiz {
         
         System.out.println("La palabra que ingreso es : "+ " '' " + palabra+ " '' " );
         
+        
+        
+        
+        
+        System.out.println("HOLAAA MULTI");
+        System.out.println("HOLA, LES SALUDA *****");
+        
     }
     
 }
